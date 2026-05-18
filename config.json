@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-and-debugging",
+      "title": "Testing and Debugging in Python",
+      "description": "Master essential software engineering practices: write unit tests, use the Python debugger, and handle exceptions gracefully.",
+      "path": "assignments/testing-and-debugging",
+      "dueDate": "2026-05-25",
+      "attachments": [
+        {
+          "name": "Python Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
